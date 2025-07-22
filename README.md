@@ -1,6 +1,6 @@
 # Lane_following_opencv_ROS2
 
-# 🏎️ ROS2 Line Follower with Obstacle Avoidance
+# 🏎️ ROS2 Line Follower 
 
 This package implements a **line-following robot** using **ROS2**, **OpenCV**, and **LaserScan**.  
 The robot follows **yellow and white lane lines** and switches to obstacle avoidance mode if an obstacle is detected.
